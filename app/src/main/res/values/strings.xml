@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">extraorinarioProyectoErroresDePliculas</string>
+    <string name="iniciarSecionBtnStrngg">Inicar secion</string>
+    <string name="StringValueCorreo">"Correo electronico "</string>
+    <string name="StringValueContrasenia">Contraseña</string>
+    <string name="StringValueOlvide">Olvidaste tu contraseña?</string>
+    <string name="StiengValueNoTiensCuenta">No tienes cuenta registrate aqui</string>
+    <string name="StringValueNombreDarDeAlta">Nombre de usuario</string>
+    <string name="StrongValueRepiteContraseña">Rrpite la ocntraseña</string>
+    <string name="SteingValueRegistrarseBTn">Registrarse</string>
+    <string name="StringValueTituloPeli">Titulo: %1$s</string>
+    <string name="StringValueAnioPeli">Año : %1$s</string>
+    <string name="StringValueErroersNum">Numero de errores : %1$s</string>
+    <string name="StringValueImagenUsMuestra">Usuario</string>
+    <string name="StringValueComentario">Comentario</string>
+    <string name="fragmentInicio">Inicio</string>
+    <string name="fragemntBuscar">Buscar</string>
+    <string name="fragmentSeries">Series</string>
+    <string name="fragmentPeliculas">Peliculas</string>
+</resources>
